@@ -65,3 +65,49 @@ button:focus-visible {
   outline: 3px solid hsla(0, 0%, 100%, 0.8);
   outline-offset: 3px;
 }
+
+.results-summary {
+  width: min(100%, 34rem);
+}
+
+.card {
+  width: 100%;
+  background: var(--clr-white);
+  border-radius: var(--radius);
+  overflow: hidden;
+  box-shadow: var(--shadow);
+  display: grid;
+  grid-template-rows: auto 1fr;
+}
+
+
+.card__result {
+  background: linear-gradient(180deg, var(--clr-bg-start), var(--clr-bg-end));
+  padding: 2.5rem 2rem 3rem;
+  text-align: center;
+  color: var(--clr-white);
+  border-radius: var(--radius);
+  align-items: center;
+  text-align: center;
+}
+
+.result__title {
+  text-align: center;
+  font-weight: 500;
+  font-size: 0.85rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  opacity: 0.9;
+  margin: 0 0 1.75rem;
+}
+
+.result__score {
+  text-align: center;
+  align-items: center;
+  place-content: center;
+  width: 10.5rem;
+  height: 10.5rem;
+  margin: 0 auto 1.75rem;
+  border-radius: 50%;
+  background: linear-gradient(180deg, var(--clr-bg-end), var(--clr-bg-start));
+  }
