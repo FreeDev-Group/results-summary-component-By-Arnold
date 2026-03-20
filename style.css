@@ -173,3 +173,33 @@ button:focus-visible {
   cursor: default;
   transition: transform 150ms ease, background-color 150ms ease;
 }
+
+
+.summary__item:hover,
+.summary__item:focus-within {
+  transform: translateY(-2px);
+}
+
+.summary__item-left {
+  display: flex;
+  align-items: center;
+  gap: 0.9rem;
+}
+
+.summary__icon {
+  width: 1.75rem;
+  height: 1.75rem;
+  display: block;
+}
+
+.summary__category {
+  margin: 0;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+}
+
+.summary__score {
+  margin: 0;
+  font-weight: 800;
+  opacity: 0.9;
+}
