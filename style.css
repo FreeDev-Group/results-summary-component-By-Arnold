@@ -203,3 +203,31 @@ button:focus-visible {
   font-weight: 800;
   opacity: 0.9;
 }
+
+.summary__score{
+  color: lightslategray;
+}
+.summary__score strong{
+    font-weight: 700;
+  color: rgb(16, 18, 20);
+}
+
+.summary__score-divider {
+  opacity: 0.6;
+  font-weight: 500;
+}
+
+.summary__item--reaction {
+  background: hsla(0, 100%, 67%, 0.1);
+  color: var(--clr-red);
+}
+
+.summary__item--memory {
+  background: hsla(39, 100%, 56%, 0.1);
+  color: var(--clr-yellow);
+}
+
+.summary__item--verbal {
+  background: hsla(166, 100%, 37%, 0.1);
+  color: var(--clr-green);
+}
