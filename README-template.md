@@ -1,123 +1,81 @@
-# Frontend Mentor - Results summary component solution
+This is a solution to the Recipe page challenge on Frontend Mentor. This challenge helped me improve my HTML and CSS skills by building a clean and responsive recipe layout.
 
-This is a solution to the [Results summary component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+Table of contents
+Overview
+The challenge
+Screenshot
+Links
+My process
+Built with
+What I learned
+Continued development
+Useful resources
+AI Collaboration
+Author
+Acknowledgments
+Overview
+Screenshot
 
-## Table of contents
 
-- [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
-- [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-  - [AI Collaboration](#ai-collaboration)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+Links
+Solution URL: https://github.com/FreeDev-Group/results-summary-component-By-Arnold
+Live Site URL: https://freedev-group.github.io/results-summary-component-By-Arnold/
 
-## Overview
+My process
 
-### The challenge
+-Built with
 
-Users should be able to:
+-Semantic HTML5
 
-- View the optimal layout for the interface depending on their device's screen size
-- See hover and focus states for all interactive elements on the page
-- **Bonus**: Use the local JSON data to dynamically populate the content
+-CSS3
 
-### Screenshot
+-Flexbox
 
-![](./screenshot.jpg)
+-Mobile-first workflow
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
+What I learned
 
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
+How to structure a clean and semantic HTML layout
 
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
+How to organize CSS for better readability and maintainability
 
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
+How to implement layout and positioning using Flexbox
 
-### Links
+How to make a responsive design using media queries
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+Importance of spacing, typography, and visual hierarchy
 
-## My process
+Continued development
 
-### Built with
+Improve accessibility (ARIA roles, better semantic usage)
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
+Practice more responsive layouts
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+Explore CSS Grid for more complex designs
 
-### What I learned
+Improve UI details (hover effects, transitions)
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+Useful resources
+Example resource 1 - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
+Example resource 2 - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+AI Collaboration
+During this project, I used AI tools like ChatGPT and claude to:
 
-To see how you can add code snippets, see below:
+Understand layout and positioning concepts
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
+Improve CSS structure and best practices
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
+Generate ideas for clean and professional GitHub issues
 
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+Debug small issues and refine code
 
-### Continued development
+This helped me work faster and learn more effectively.
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+Author
+Website -
+Frontend Mentor - https://www.frontendmentor.io/profile/arnold722
+Twitter -
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
-
-### Useful resources
-
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
-
-### AI Collaboration
-
-Describe how you used AI tools (if any) during this project. This helps demonstrate your ability to work effectively with AI assistants.
-
-- What tools did you use (e.g., ChatGPT, Claude, GitHub Copilot)?
-- How did you use them (e.g., debugging, generating boilerplate, brainstorming solutions)?
-- What worked well? What didn't?
-
-**Note: Delete this note and the content above if you didn't use AI, or replace with your own experience.**
-
-## Author
-
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
-
-**Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+Acknowledgments
+Thanks to Frontend Mentor for providing this challenge.
