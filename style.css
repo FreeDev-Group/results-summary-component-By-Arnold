@@ -110,4 +110,40 @@ button:focus-visible {
   margin: 0 auto 1.75rem;
   border-radius: 50%;
   background: linear-gradient(180deg, var(--clr-bg-end), var(--clr-bg-start));
+  display: grid;
+  place-items: center;
+  box-shadow: inset 0 10px 25px hsla(240, 57%, 26%, 0.25);
   }
+
+  
+.result__score-value {
+  font-size: 4.5rem;
+  font-weight: 800;
+  line-height: 1;
+  margin: 0;
+}
+
+.result__score-out-of {
+    color: rgb(177, 177, 177);
+  margin: 0;
+  font-weight: 500;
+  opacity: 0.85;
+}
+
+.result__feedback-title {
+    text-align: center;
+  font-size: 1.75rem;
+  font-weight: 800;
+  margin: 0 0 0.75rem;
+}
+
+.result__feedback-text {
+    text-align: center;
+  margin: 0;
+  line-height: 1.6;
+  opacity: 0.9;
+}
+
+.card__summary {
+  padding: 2.5rem 2rem;
+}
