@@ -1,0 +1,31 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --font-family: 'Hanken Grotesk', sans-serif;
+  --fs-body: 18px;
+
+  /* Primary colors */
+  --clr-bg-start: hsl(252, 100%, 67%);
+  --clr-bg-end: hsl(241, 81%, 54%);
+  --clr-circle-start: hsla(256, 72%, 46%, 1);
+  --clr-circle-end: hsla(241, 72%, 46%, 0);
+
+  --clr-white: hsl(0, 0%, 100%);
+  --clr-pale-blue: hsl(221, 100%, 96%);
+  --clr-light-lavender: hsl(241, 100%, 89%);
+  --clr-dark-gray-blue: hsl(224, 30%, 27%);
+
+  /* Accent colors */
+  --clr-red: hsl(0, 100%, 67%);
+  --clr-yellow: hsl(39, 100%, 56%);
+  --clr-green: hsl(166, 100%, 37%);
+  --clr-blue: hsl(234, 85%, 45%);
+
+  --shadow: 0 24px 40px hsla(240, 57%, 26%, 0.25);
+  --radius: 2.25rem;
+  --radius-sm: 1.25rem;
+}
