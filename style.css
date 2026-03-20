@@ -293,3 +293,19 @@ button:focus-visible {
     text-align: left;
   }
 }
+
+
+@media screen and (max-width:600px){
+    body {
+  margin: 0;
+  padding: 0;
+}
+.card {
+  border-radius: 0;
+}
+.card__result {
+    margin: 0;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0 ;
+}
+}
