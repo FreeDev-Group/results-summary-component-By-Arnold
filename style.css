@@ -260,3 +260,29 @@ button:focus-visible {
    background: linear-gradient(180deg, var(--clr-bg-start), var(--clr-bg-end));
 
 }
+
+
+
+@media (min-width: 960px) {
+  .card__summary {
+    padding: 3.5rem 2.5rem;
+  }
+}
+
+@media (min-width: 960px) {
+  .result__score {
+    margin: 0 0 rem 0;
+     background: linear-gradient(180deg, var(--clr-bg-end), var(--clr-bg-start));
+  }
+}
+@media (min-width: 960px) {
+  .results-summary {
+    width: min(100%, 60rem);
+  }
+}
+@media (min-width: 960px) {
+  .card {
+    grid-template-columns: 1fr 1.1fr;
+    grid-template-rows: none;
+  }
+}
