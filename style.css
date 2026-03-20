@@ -231,3 +231,32 @@ button:focus-visible {
   background: hsla(166, 100%, 37%, 0.1);
   color: var(--clr-green);
 }
+
+
+.summary__item--visual {
+  background: hsla(234, 85%, 45%, 0.1);
+  color: var(--clr-blue);
+}
+
+.btn {
+  width: 100%;
+  border: none;
+  border-radius: 1.75rem;
+  padding: 1.1rem 1.25rem;
+  font-weight: 800;
+  font-size: 1rem;
+  background: var(--clr-dark-gray-blue);
+  color: var(--clr-white);
+  cursor: pointer;
+  margin-top: 1.75rem;
+  transition: transform 150ms ease, background-color 150ms ease;
+}
+
+.btn:hover {
+  transform: translateY(-1px);
+  background: hsl(224, 33%, 20%);
+}
+.btn:active{
+   background: linear-gradient(180deg, var(--clr-bg-start), var(--clr-bg-end));
+
+}
