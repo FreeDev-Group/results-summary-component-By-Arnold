@@ -1,20 +1,14 @@
-This is a solution to the Recipe page challenge on Frontend Mentor. This challenge helped me improve my HTML and CSS skills by building a clean and responsive recipe layout.
+This is a solution to a results-summary-component page challenge on Frontend Mentor. This challenge helped me improve my HTML and CSS skills by building a clean and responsive recipe layout.
 
 Table of contents
 Overview
 The challenge
 Screenshot
 Links
-My process
-Built with
-What I learned
-Continued development
-Useful resources
-AI Collaboration
-Author
-Acknowledgments
-Overview
+The challenge
+
 Screenshot
+![alt text](<Capture d’écran (53).png>)
 
 
 
@@ -56,9 +50,7 @@ Explore CSS Grid for more complex designs
 
 Improve UI details (hover effects, transitions)
 
-Useful resources
-Example resource 1 - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-Example resource 2 - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+
 AI Collaboration
 During this project, I used AI tools like ChatGPT and claude to:
 
